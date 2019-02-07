@@ -20,6 +20,7 @@ import './core/NewButton';
 
 import './forms/FormComponentInner';
 import './forms/FormErrors';
+import './forms/FormElement';
 import './forms/FormGroup';
 import './forms/FormGroupNone';
 import './forms/FormGroupWithLine';
